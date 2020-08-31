@@ -23,6 +23,7 @@ Partial Public Class frm_Main
     End Sub
 
     Private Sub button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles button1.Click
+        listBox.Items.Add("Überwachung gestartet !")
         button1.Enabled = False
 
         Try

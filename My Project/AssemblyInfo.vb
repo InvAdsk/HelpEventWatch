@@ -7,9 +7,9 @@ Imports System.Runtime.InteropServices
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
 <Assembly: AssemblyTitle("HelpEventWatch")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyDescription("Was treibt der Inventor so ....")>
 <Assembly: AssemblyConfiguration("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("CAD Team Handzik")>
 <Assembly: AssemblyProduct("HelpEventWatch")>
 <Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
@@ -33,5 +33,5 @@ Imports System.Runtime.InteropServices
 ' You can specify all the values or you can default the Build and Revision Numbers 
 ' by using the '*' as shown below:
 ' [assembly: AssemblyVersion("1.0.*")]
-<Assembly: AssemblyVersion("1.0.15.7474")>
-<Assembly: AssemblyFileVersion("1.0.15.7474")>
+<Assembly: AssemblyVersion("1.9.1247.244")>
+<Assembly: AssemblyFileVersion("1.9.1247.244")>
